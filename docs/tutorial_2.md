@@ -1,3 +1,4 @@
+[Home](index.md)
 # Setting Up CI/CD for Spring Boot Applications
 Continuous Integration and Continuous Deployment (CI/CD) are crucial practices for automating the build, testing, and deployment of applications. In this tutorial, we'll guide you through setting up a CI/CD pipeline for a Spring Boot application using popular tools like Jenkins, GitHub Actions, and Docker.
 
